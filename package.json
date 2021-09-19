@@ -18,7 +18,7 @@
     "sdk"
   ],
   "dependencies": {
-    "requestretry": "^1.8.0"
+    "requestretry": "^6.0.0"
   },
   "author": {
     "name": "Serhat Can",
@@ -35,9 +35,9 @@
     }
   },
   "devDependencies": {
-    "async": "^2.0.0-rc.6",
-    "chai": "^3.5.0",
-    "jest": "^26.6.3"
+    "async": "^3.2.1",
+    "chai": "^4.3.4",
+    "jest": "^27.2.0"
   },
   "readmeFilename": "README.md"
 }
